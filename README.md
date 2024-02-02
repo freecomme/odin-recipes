@@ -1,4 +1,4 @@
-# odin-recipes
+ odin-recipes
 
 make a basic website to display a recipe
 
